@@ -4,13 +4,15 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpg'
+    src: '/About.png'
     alt: A person sitting at a desk in front of a computer
 ---
 
 ## Data Scientist and Machine Learning Engineer
 
 **Hi there!** I'm Dustin. I'm a data scientist and machine learning engineer committed to using technology to make a real difference. My career has been a journey of constant growth—from my formative years in the Army, through the challenges of tech innovation at Gartner, to my current focus on the possibilities within data science, machine learning, and AI.
+
+![About Me Image](/About.png)
 
 ## Where I've Been
 
