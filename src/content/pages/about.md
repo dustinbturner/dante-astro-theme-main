@@ -10,30 +10,26 @@ seo:
 
 ## Data Scientist and Machine Learning Engineer
 
-**Hi there!** I'm Dustin Turner, a self-professed data nerd and machine learning engineer currently in Knoxville, TN. With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hi there!** I'm Dustin. I'm a data scientist and machine learning engineer committed to using technology to make a real difference. My career has been a journey of constant growth—from my formative years in the Army, through the challenges of tech innovation at Gartner, to my current focus on the possibilities within data science, machine learning, and AI.
 
-## Skills and Expertise
+## Where I've Been
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+My career path is unique. In the Army, I took on roles that pushed me to my limits, sharpening my leadership skills and fostering a strong sense of duty in teaching and mentoring. These experiences built my capacity for analytical thinking and strategy.
 
-## Innovation and Problem-Solving
+Moving into the corporate sphere at Gartner, I was at the center of tech advancement and business strategy. Collaborating with executives and operational teams, I played a part in guiding organizations through the challenges of the COVID era with smart tech investments, observing the resilience and agility of companies navigating tough times.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Where I Am
 
-## Global Perspective, Local Impact
+Now, as I move forward, my attention is fully on using data science, machine learning, and AI to impact areas like health, fitness, and psychology positively. I'm motivated by the potential of technology to drive significant, positive change and improve the well-being of people across the globe.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Where I'm Going
+
+My focus is clear:
+
+I want to join a team that's as passionate as I am about making a real impact. I'm looking to bring not only my technical expertise but also my insights on leadership, resilience, and innovation to the table. My ambition is to create solutions that are technologically sophisticated and socially impactful.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+If you're inspired by the idea of a better future powered by technology, or if you're curious about the potential of data science and AI to revolutionize industries and improve lives, I'm happy to connect.
 
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Let's see what amazing things we can do together.
