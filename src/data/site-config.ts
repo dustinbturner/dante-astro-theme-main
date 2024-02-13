@@ -56,7 +56,7 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
-            text: 'Blog',
+            text: 'Writing',
             href: '/blog'
         }
     ],
