@@ -1,16 +1,16 @@
 ---
 title: Essential Soft Skills Every Data Scientist Should Master
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
+excerpt: Soft skills are essential for data scientists to excel in their roles beyond technical expertise. In this article, we will explore five key soft skills that every data scientist should master to thrive in a dynamic and collaborative work environment.
 publishDate: 'Feb 13 2024'
 tags:
   - Guide
 seo:
   image:
     src: '/post-1.jpeg'
-    alt: A person standing at the window
+    alt: A person sitting at a computer
 ---
 
-![A person standing at the window](/post-1.jpeg)
+![A person sitting at a computer](/post-1.jpeg)
 
 Soft skills are essential for data scientists to excel in their roles beyond technical expertise. In this article, we will explore five key soft skills that every data scientist should master to thrive in a dynamic and collaborative work environment.
 
