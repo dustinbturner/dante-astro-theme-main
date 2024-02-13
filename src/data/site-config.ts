@@ -58,7 +58,11 @@ const siteConfig: SiteConfig = {
         {
             text: 'Writing',
             href: '/blog'
-        }
+        },
+        {
+            text: 'Categories',
+            href: '/tags'
+        },
     ],
     footerNavLinks: [
         {
@@ -68,6 +72,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
+        },
+        {
+            text: 'Tags',
+            href: '/tags'
         }
         // {
         //     text: 'Terms',
