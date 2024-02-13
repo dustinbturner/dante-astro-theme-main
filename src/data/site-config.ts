@@ -43,7 +43,7 @@ const siteConfig: SiteConfig = {
     description: 'Dustin Turner is a data scientist and machine learning engineer based in Knoxville, TN. He is currently seeking opportunities in the financial services or healthcare space.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Dustin Turner | Data Scientist & Machine Learning Engineer'
     },
     headerNavLinks: [
         {
@@ -101,8 +101,8 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 3,
+    projectsPerPage: 3
 };
 
 export default siteConfig;
