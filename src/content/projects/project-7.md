@@ -1,6 +1,6 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency e
+title: 'Placeholder 7'
+description: Placeholder lorem ipsum
 publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
