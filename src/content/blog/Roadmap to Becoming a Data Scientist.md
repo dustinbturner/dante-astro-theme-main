@@ -7,11 +7,11 @@ tags:
   - Guide
 seo:
   image:
-    src: '/public/roadmap to Becoming a Data Scientist.jpeg'
+    src: '/roadmap to Becoming a Data Scientist.jpeg'
     alt: A person sitting at a computer
 ---
 
-![A person sitting at a computer](/public/roadmap%20to%20Becoming%20a%20Data%20Scientist.jpeg)
+![A person sitting at a computer](/roadmap%20to%20Becoming%20a%20Data%20Scientist.jpeg)
 
 Soft skills are essential for data scientists to excel in their roles beyond technical expertise. In this article, we will explore five key soft skills that every data scientist should master to thrive in a dynamic and collaborative work environment.
 
