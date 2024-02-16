@@ -9,11 +9,11 @@ tags:
   - Data Analysis
 seo:
   image:
-    src: '/public/Narrating Numbers: The Art of Storytelling with Data.jpeg'
+    src: '/public/The Art of Storytelling with Data.jpeg'
     alt: A stack of open books indicating a story
 ---
 
-![A stack of open books indicating a story](/public/Narrating%20Numbers:%20The%20Art%20of%20Storytelling%20with%20Data.jpeg)
+![A stack of open books indicating a story](/public/The%20Art%20of%20Storytelling%20with%20Data.jpeg)
 
 In the world of data storytelling, numbers come to life through the art of narration. This article explores the significance of weaving compelling stories with data, emphasizing the impact of visualization and ethical considerations in engaging audiences.
 
