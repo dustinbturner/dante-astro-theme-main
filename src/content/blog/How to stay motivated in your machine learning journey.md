@@ -14,7 +14,7 @@ seo:
     alt: A computer sitting on a desk
 ---
 
-![A computer sitting on a desk](/stay motivated in your machine learning journey.jpeg)
+![A computer sitting on a desk](/stay%20motivated%20in%20your%20machine%20learning%20journey.jpeg)
 
 Staying motivated throughout your machine learning journey can be challenging, but with the right strategies in place, you can maintain your enthusiasm and drive. In this article, we will explore key aspects that can help you stay motivated and focused on your goals in the field of machine learning.
 
