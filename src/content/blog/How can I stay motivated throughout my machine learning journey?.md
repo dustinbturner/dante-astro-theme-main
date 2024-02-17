@@ -1,5 +1,5 @@
 ---
-title: How can I stay motivated throughout my machine learning journey?
+title: How to stay motivated in your machine learning journey
 excerpt: Staying motivated throughout your machine learning journey can be challenging, but with the right strategies in place, you can maintain your enthusiasm and drive. In this article, we will explore key aspects that can help you stay motivated and focused on your goals in the field of machine learning.
 
 publishDate: 'Feb 17 2024'
