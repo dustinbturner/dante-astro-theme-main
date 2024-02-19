@@ -5,6 +5,9 @@ publishDate: 'Feb 13 2024'
 isFeatured: true
 tags:
   - Guide
+  - Data Science
+  - Soft Skills
+  - Career
 seo:
   image:
     src: '/post-1.jpeg'
