@@ -18,6 +18,15 @@ const { showHeader = true, ...head } = Astro.props;
                 document.documentElement.classList.add('dark');
             }
         </script>
+        <!-- Google tag (gtag.js) -->
+        <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-WV49MFP5NJ"></script>
+        <script type="text/partytown">
+	        window.dataLayer = window.dataLayer || [];
+	        function gtag(){dataLayer.push(arguments);}
+	        gtag('js', new Date());
+
+	        gtag('config', 'G-WV49MFP5NJ');
+        </script>
         <ViewTransitions />
     </head>
     <body class="bg-main text-main">
