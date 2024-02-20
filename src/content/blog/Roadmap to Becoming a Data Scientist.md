@@ -4,7 +4,9 @@ excerpt: Embarking on a journey to become a data scientist requires a strategic 
 publishDate: 'Feb 15 2024'
 isFeatured: true
 tags:
-  - Guide
+  - Data Science
+  - Roadmap
+  - Career
 seo:
   image:
     src: '/roadmap to Becoming a Data Scientist.jpeg'
