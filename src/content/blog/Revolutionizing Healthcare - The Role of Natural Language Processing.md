@@ -14,7 +14,7 @@ seo:
     alt: illustration of a medical professional at a computer desk
 ---
 
-![illustration of a medical professional at a computer desk](/public/nlpinhealthcare.png)
+![illustration of a medical professional at a computer desk](/nlpinhealthcare.png)
 
 Natural Language Processing (NLP) has emerged as a game-changer in the healthcare industry, revolutionizing the way medical data is processed and utilized. This article delves into the integral role of NLP in transforming healthcare practices and enhancing patient outcomes.
 
