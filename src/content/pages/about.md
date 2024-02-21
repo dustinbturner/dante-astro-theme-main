@@ -10,8 +10,6 @@ seo:
 
 ## Data Scientist and Machine Learning Engineer
 
-![About Me Image](/About.png)
-
 **Hi there!** I'm Dustin. I'm a committed to using technology to make a real difference. My career has been a journey of constant growth—from my formative years in the Army, through the challenges of tech innovation at Gartner, to my current focus on the possibilities within data science, machine learning, and AI.
 
 ## Where I've Been
