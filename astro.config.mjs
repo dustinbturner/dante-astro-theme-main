@@ -6,7 +6,7 @@ import partytown from '@astrojs/partytown';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://dustinbturner.com',
+    site: 'https://www.dustinbturner.com',
     integrations: [
         mdx(),
         sitemap(),
