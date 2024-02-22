@@ -43,7 +43,7 @@ const siteConfig: SiteConfig = {
     description:
         'Dustin Turner is a Data Scientist & Machine Learning Engineer based in Knoxville, TN. He is currently seeking opportunities in the healthcare space.',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/social image preview.png',
         alt: 'Dustin Turner | Data Scientist & Machine Learning Engineer'
     },
     headerNavLinks: [
@@ -95,10 +95,7 @@ const siteConfig: SiteConfig = {
     hero: {
         title: '',
         text: "I'm **Dustin**, a self professed data nerd. <br><br> I've always been a keen observer, eager to learn from the world around me. This perspective fuels my excitement about the future of technological advancements.<br><br> During my service in the Army, I was regularly entrusted with challenging roles. This not only honed my leadership skills but also enabled me to teach, coach, and mentor both peers and subordinates effectively. <br><br>  While at Gartner, I had a front-row seat to the transformative power of technology. I collaborated closely with C-suite executives and tactical level teams, helping them navigate the seismic shifts brought on by COVID. Through strategic technology investments, I saw businesses pivot, adapt, and thrive in challenging times. <br><br> As I step into my next career phase, I'm focusing on data science, machine learning, and AI. I'm eager to see how these tools can change things for the better. I'm also interested in bringing elements of health, fitness, and psychology into my work.<br><br> My goal? To join a team that wants to make a positive impact and help the world.",
-        // image: {
-        //     src: '/About.png',
-        //     alt: 'A person sitting at a desk in front of a computer'
-        // },
+
         actions: [
             {
                 text: 'Get in Touch',
