@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
 
+
 export type Props = HeadProps & { showHeader?: boolean };
 
 const { showHeader = true, ...head } = Astro.props;
@@ -27,6 +28,8 @@ const { showHeader = true, ...head } = Astro.props;
 
 	        gtag('config', 'G-WV49MFP5NJ');
         </script>
+        <link rel="sitemap" href="/sitemap-index.xml" />
+        
         <ViewTransitions />
     </head>
     <body class="bg-main text-main">
